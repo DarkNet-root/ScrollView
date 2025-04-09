@@ -1,5 +1,5 @@
 
-import React from 'react';
+/*import React from 'react';
 import {Image, ScrollView, Text, TextInput,View} from 'react-native';
 
 
@@ -95,4 +95,4 @@ import {Image, ScrollView, Text, TextInput,View} from 'react-native';
   nome:'Supergirl',
 },
 ];
-export default logo;
+export default logo;*/
