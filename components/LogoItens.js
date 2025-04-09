@@ -10,7 +10,7 @@ const LogoItens = ({ item: { uri, nome, width, height } }) => {
   );
 };
 
-// Estilos extraídos para o StyleSheet
+
 const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
